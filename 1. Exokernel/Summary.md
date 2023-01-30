@@ -73,4 +73,4 @@ Furthermore, the two software implementations - Aegis and ExOS demonstrate the f
 * Applications can create optimized special-purpose implementations of these abstractions
 
 ### Reference
-You can find the summary written by me [here](). This was written as a part of the course [CSE 506 Operating Systems](https://www3.cs.stonybrook.edu/~dongyoon/cse506-s23/) by [Prof. Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/) at Stony Brook University.
+You can find the summary written by me [here](https://github.com/parthskansara/Operating-Systems/blob/main/1.%20Exokernel/Exokernel%20Summary%20Assignment.pdf). This was written as a part of the course [CSE 506 Operating Systems](https://www3.cs.stonybrook.edu/~dongyoon/cse506-s23/) by [Prof. Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/) at Stony Brook University.
