@@ -68,4 +68,4 @@ The multikernel implementation by the authors, Barrelfish, is able to meet the f
 * Utilizes the modular design of the OS to optimize placement of OS features based on hardware configuration and usage
 
 ### Reference
-You can find the summary written by me [here](LINK). This was written as a part of the course [CSE 506 Operating Systems](https://www3.cs.stonybrook.edu/~dongyoon/cse506-s23/) by [Prof. Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/) at Stony Brook University.
+You can find the summary written by me [here](https://github.com/parthskansara/Operating-Systems/blob/main/2.%20Multikernel/Multikernels%20Summary%20Assignment.pdf). This was written as a part of the course [CSE 506 Operating Systems](https://www3.cs.stonybrook.edu/~dongyoon/cse506-s23/) by [Prof. Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/) at Stony Brook University.
