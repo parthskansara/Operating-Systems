@@ -1,6 +1,6 @@
 # Operating Systems
 
-This repository contains summaries of several crucial research papers, based on the background and the development of modern day operating systems.
+This repository contains summaries of several milestone research papers, based on the background and the development of modern day operating systems.
 
 1. [Exokernels: An Operating System Architecture for Application-Level Resource Management](https://github.com/parthskansara/Operating-Systems/blob/main/1.%20Exokernel/Summary.md)
 2. [The Multikernel: A New OS Architecture for Scalable Multicore Systems](https://github.com/parthskansara/Operating-Systems/blob/main/2.%20Multikernel/Summary.md)
