@@ -18,8 +18,8 @@ This repository contains summaries of several crucial research papers, based on 
 14. [Memory Resource Management in VMware ESX Server](https://github.com/parthskansara/Operating-Systems/blob/main/14.%20Memory%20Resource%20Management%20in%20VMware%20ESX%20Server/Parth%20Kansara%20-%20115135130.pdf)
 15. [A Comparison of Software and Hardware Techniques for x86 Virtualization](https://github.com/parthskansara/Operating-Systems/blob/main/15.%20Software%20vs.%20Hardware%20x86%20Virtualization/Parth%20Kansara%20-%20115135130.pdf)
 16. [Virtualizing I/O Devices on VMware Workstation's Hosted Virtual Machine Monitor](https://github.com/parthskansara/Operating-Systems/blob/main/16.%20Virtualizing%20IO%20Devices%20on%20VMware%20Workstation%E2%80%99s%20Hosted%20Virtual%20Machine%20Monitor/Parth%20Kansara%20-%20115135130.pdf)
-17. [Xen and the Art of Virtualization]{}
-18. [KVM: the Linux Virtual Machine Monitor]{}
+17. [Xen and the Art of Virtualization]()
+18. [KVM: the Linux Virtual Machine Monitor]()
 19. TBD
 20. TBD
 21. TBD
