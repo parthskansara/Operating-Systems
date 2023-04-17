@@ -69,7 +69,7 @@ This paper exhibits that by avoiding high-level abstractions, the exokernel is a
 Furthermore, the two software implementations - Aegis and ExOS demonstrate the following hypotheses:
 * Exokernels are very efficient
 * Secure low-level multiplexing of hardware resources can be implemented efficiently
-* Traditional OS abstracted can be implemented efficiently at the application-level
+* Traditional OS abstractions can be implemented efficiently at the application-level
 * Applications can create optimized special-purpose implementations of these abstractions
 
 ### Reference
