@@ -1,5 +1,5 @@
-# Operating Systems
-
+# The Evolution of Operating Systems 
+## A Comprehensive Review of 19 Milestone Papers
 This repository contains summaries of several milestone research papers, based on the background and the development of modern day operating systems.
 
 1. [Exokernels: An Operating System Architecture for Application-Level Resource Management](https://github.com/parthskansara/Operating-Systems/blob/main/1.%20Exokernel/Summary.md)
@@ -18,12 +18,9 @@ This repository contains summaries of several milestone research papers, based o
 14. [Memory Resource Management in VMware ESX Server](https://github.com/parthskansara/Operating-Systems/blob/main/14.%20Memory%20Resource%20Management%20in%20VMware%20ESX%20Server/Parth%20Kansara%20-%20115135130.pdf)
 15. [A Comparison of Software and Hardware Techniques for x86 Virtualization](https://github.com/parthskansara/Operating-Systems/blob/main/15.%20Software%20vs.%20Hardware%20x86%20Virtualization/Parth%20Kansara%20-%20115135130.pdf)
 16. [Virtualizing I/O Devices on VMware Workstation's Hosted Virtual Machine Monitor](https://github.com/parthskansara/Operating-Systems/blob/main/16.%20Virtualizing%20IO%20Devices%20on%20VMware%20Workstation%E2%80%99s%20Hosted%20Virtual%20Machine%20Monitor/Parth%20Kansara%20-%20115135130.pdf)
-17. [Xen and the Art of Virtualization]()
-18. [KVM: the Linux Virtual Machine Monitor]()
-19. TBD
-20. TBD
-21. TBD
-22. TBD
+17. [Xen and the Art of Virtualization](https://github.com/parthskansara/Operating-Systems/blob/main/17.%20Xen%20and%20the%20Art%20of%20Virtualization/Parth%20Kansara%20-%20115135130.pdf)
+18. [KVM: the Linux Virtual Machine Monitor](https://github.com/parthskansara/Operating-Systems/blob/main/18.%20KLEE%20Unassisted%20and%20Automatic%20Generation%20of%20High-Coverage/Parth%20Kansara%20-%20115135130.pdf)
+19. [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels](https://github.com/parthskansara/Operating-Systems/blob/main/19.%20kAFL_%20Hardware-Assisted%20Feedback%20Fuzzing%20for%20OS%20Kernels/Parth%20Kansara%20-%20115135130.pdf)
 
 ## Source
 These summaries were written as a part of the course course [CSE 506 Operating Systems](https://www3.cs.stonybrook.edu/~dongyoon/cse506-s23/) by [Prof. Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/) at Stony Brook University.
